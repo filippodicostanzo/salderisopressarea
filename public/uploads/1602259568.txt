@@ -1,0 +1,66 @@
+Logging in build 2014.2.1.10 started at: Fri Jan 16 10:07:24 2015
+========================================
+
+==========
+Logging ended at: Fri Jan 16 10:07:25 2015
+
+Logging in build 2014.2.1.10 started at: Fri Jan 16 10:08:07 2015
+========================================
+
+==========
+Logging ended at: Fri Jan 16 10:08:07 2015
+
+Logging in build 2014.2.1.10 started at: Fri Jan 16 10:09:28 2015
+========================================
+
+==========
+Logging ended at: Fri Jan 16 10:09:29 2015
+
+Logging in build 2014.2.1.10 started at: Fri Jan 16 10:09:32 2015
+========================================
+[00:01:56.671] SaveAs complete for file 'C:\Users\User\Desktop\Sito web-1.muse' file size:458752 mod Date:Fri Jan 16 10:11:29 GMT+0100 2015 highest UID:76
+[00:06:35.609] HTMLExport Sito web-1(1 pages) to 'http://fdcdesigntest.altervista.org' completed with 1 warnings.
+[00:06:35.609] 91027:Il modulo Modulo Home è configurato con un indirizzo e-mail , che non corrisponde al nome del server fdcdesigntest.altervista.org. Alcuni provider di servizi di hosting rifiutano l'invio di e-mail da indirizzi e-mail su host diversi. Se quando viene inviato il modulo l'invio e-mail non funziona come previsto, impostate come primo indirizzo e-mail elencato nel modulo Muse un indirizzo sul dominio fdcdesigntest.altervista.org, quindi riprovate.
+[00:07:38.765] Save complete for file 'C:\Users\User\Desktop\Sito web-1.muse' file size:917504 mod Date:Fri Jan 16 10:17:11 GMT+0100 2015 highest UID:134
+[00:07:48.859] HTMLExport Sito web-1(1 pages) to 'http://fdcdesigntest.altervista.org' completed with 1 warnings.
+[00:07:48.859] 91027:Il modulo Modulo Home è configurato con un indirizzo e-mail , che non corrisponde al nome del server fdcdesigntest.altervista.org. Alcuni provider di servizi di hosting rifiutano l'invio di e-mail da indirizzi e-mail su host diversi. Se quando viene inviato il modulo l'invio e-mail non funziona come previsto, impostate come primo indirizzo e-mail elencato nel modulo Muse un indirizzo sul dominio fdcdesigntest.altervista.org, quindi riprovate.
+[00:22:49.062] Opening file 'F:\Download\CM One Adobe Muse Theme 21143\CreativeMarket - One - Adobe Muse Theme 21143 GFXDAY.COM!\One.muse' with status:success size:6651904 mod Date:Mon Jan 20 14:57:30 GMT+0100 2014 highestUID: 1862
+[00:24:18.062] HTMLExport One(1 pages) to 'muse.eamejia.com' completed with 1 warnings.
+[00:24:18.062] 91027:Il modulo One - Adobe Muse Theme Form è configurato con un indirizzo e-mail , che non corrisponde al nome del server muse.eamejia.com. Alcuni provider di servizi di hosting rifiutano l'invio di e-mail da indirizzi e-mail su host diversi. Se quando viene inviato il modulo l'invio e-mail non funziona come previsto, impostate come primo indirizzo e-mail elencato nel modulo Muse un indirizzo sul dominio muse.eamejia.com, quindi riprovate.
+[00:47:14.437] SaveAs complete for file 'F:\Download\CM One Adobe Muse Theme 21143\CreativeMarket - One - Adobe Muse Theme 21143 GFXDAY.COM!\One.muse' file size:6422528 mod Date:Fri Jan 16 10:56:46 GMT+0100 2015 highest UID:1870
+[00:47:20.953] HTMLExport One(1 pages) to 'muse.eamejia.com' completed with 1 warnings.
+[00:47:20.953] 91027:Il modulo One - Adobe Muse Theme Form è configurato con un indirizzo e-mail , che non corrisponde al nome del server muse.eamejia.com. Alcuni provider di servizi di hosting rifiutano l'invio di e-mail da indirizzi e-mail su host diversi. Se quando viene inviato il modulo l'invio e-mail non funziona come previsto, impostate come primo indirizzo e-mail elencato nel modulo Muse un indirizzo sul dominio muse.eamejia.com, quindi riprovate.
+[00:47:32.296] HTMLExport One(1 pages) to 'muse.eamejia.com' completed with 0 warnings.
+[00:50:18.359] HTMLExport One(2 pages) to 'muse.eamejia.com' completed with 1 warnings.
+[00:50:18.359] 91027:Il modulo One - Adobe Muse Theme Form è configurato con un indirizzo e-mail , che non corrisponde al nome del server muse.eamejia.com. Alcuni provider di servizi di hosting rifiutano l'invio di e-mail da indirizzi e-mail su host diversi. Se quando viene inviato il modulo l'invio e-mail non funziona come previsto, impostate come primo indirizzo e-mail elencato nel modulo Muse un indirizzo sul dominio muse.eamejia.com, quindi riprovate.
+[00:50:23.890] HTMLExport One(2 pages) to 'muse.eamejia.com' completed with 0 warnings.
+[04:25:53.250] Quitting Application after 265.8 minutes. Called by: MuseApp/quitAfterModal+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+UIComponent/dispatchEvent
+
+==========
+Logging ended at: Fri Jan 16 14:35:37 2015
+
+15504: Logging in build 2015.2.0.877 started at: Tue Jul 05 16:49:08 2016
+========================================
+15504: [00:00:12.171] 16:49:22.559 | Trying to open file 'F:\Download\CM One Adobe Muse Theme 21143\CreativeMarket - One - Adobe Muse Theme 21143 GFXDAY.COM!\One.muse with size:6422528 mod Date:Fri Jan 16 10:56:46 GMT+0100 2015
+15504: [00:00:12.171] 16:49:22.563 | Opening file 'F:\Download\CM One Adobe Muse Theme 21143\CreativeMarket - One - Adobe Muse Theme 21143 GFXDAY.COM!\One.muse' with status:success size:6422528 mod Date:Fri Jan 16 10:56:46 GMT+0100 2015 highestUID: 1870
+15504: [00:00:12.312] 16:49:22.697 | Converting from file format 284 to format 352 for file:F:\Download\CM One Adobe Muse Theme 21143\CreativeMarket - One - Adobe Muse Theme 21143 GFXDAY.COM!\One.muse
+15504: [00:00:57.625] 16:50:08.002 | quitWithUI:Quitting Application. Called by: 
+15504: [00:00:57.625] 16:50:08.003 | Quitting Application after 0.9 minutes. Called by: 
+15504: [00:01:00.656] Logging shutdown normally
+
+==========
+15504: Logging ended at: Tue Jul 05 16:50:11 2016
+
+Logging in build 2017.0.0.149 started at: Mon Sep 11 13:53:34 2017
+========================================
+
+==========
+Logging ended at: Mon Sep 11 13:53:45 2017
+
+[01:12:59.406] 15:06:44.785 | quitWithUI:Quitting Application. Called by: 
+[01:12:59.406] 15:06:44.792 | Quitting Application after 72.7 minutes. Called by: 
+[01:13:01.640] Logging shutdown normally
+
+==========
+Logging ended at: Mon Sep 11 15:06:47 2017
+
